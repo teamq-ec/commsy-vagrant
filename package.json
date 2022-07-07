@@ -34,7 +34,7 @@
     "jstree": "^3.3.8",
     "less": "^3.9.0",
     "less-loader": "^4.1.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "nprogress": "^0.2.0",
     "promise": "^7.1.1",
     "select2": "^4.0.5",
